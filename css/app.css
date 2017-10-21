@@ -278,7 +278,8 @@ footer {
   width: calc(100% - 40px);
   float: left;
   margin-left: 20px;
-  text-align: center; }
+  text-align: center;
+  padding: 40px 0; }
 
 /* ==============================
    LAYOUT STYLES
